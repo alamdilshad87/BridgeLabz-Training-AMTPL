@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ArraysExample
+namespace Arrays
 {
     public class Program
     {
