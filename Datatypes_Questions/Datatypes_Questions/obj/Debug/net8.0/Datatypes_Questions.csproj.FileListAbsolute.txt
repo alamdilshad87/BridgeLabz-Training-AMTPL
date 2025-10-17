@@ -1,0 +1,15 @@
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\bin\Debug\net8.0\Datatypes_Questions.exe
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\bin\Debug\net8.0\Datatypes_Questions.deps.json
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\bin\Debug\net8.0\Datatypes_Questions.runtimeconfig.json
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\bin\Debug\net8.0\Datatypes_Questions.dll
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\bin\Debug\net8.0\Datatypes_Questions.pdb
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\obj\Debug\net8.0\Datatypes_Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\obj\Debug\net8.0\Datatypes_Questions.AssemblyInfoInputs.cache
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\obj\Debug\net8.0\Datatypes_Questions.AssemblyInfo.cs
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\obj\Debug\net8.0\Datatypes_Questions.csproj.CoreCompileInputs.cache
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\obj\Debug\net8.0\Datatypes_Questions.sourcelink.json
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\obj\Debug\net8.0\Datatypes_Questions.dll
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\obj\Debug\net8.0\refint\Datatypes_Questions.dll
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\obj\Debug\net8.0\Datatypes_Questions.pdb
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\obj\Debug\net8.0\Datatypes_Questions.genruntimeconfig.cache
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Datatypes_Questions\Datatypes_Questions\obj\Debug\net8.0\ref\Datatypes_Questions.dll
