@@ -1,0 +1,15 @@
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\Dilshad\source\repos\alamdilshad87\BridgeLabz-Training-AMTPL\Arrays\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
